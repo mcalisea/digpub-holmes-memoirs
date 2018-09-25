@@ -1,2 +1,9 @@
-h2 {color: "green";
+h2 {
+  color: green;
+}
+i {
+  font-weight: bold;
+}
+figcaption{
+  font-family: fantasy;
 }
